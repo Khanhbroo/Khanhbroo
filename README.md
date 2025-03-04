@@ -51,7 +51,7 @@ I graduated from Troy University in 2025 with a degree in Computer Science, wher
 I'm actively looking for new opportunities in Web3 development, blockchain engineering, and DeFi projects. If you're working on an innovative blockchain project, feel free to connect with me!
 
 ---
-
+### 👸 And I have a cute girlfriend
 
 ![snake gif](https://github.com/Khanhbroo/Khanhbroo/blob/output/github-snake.svg)
 
