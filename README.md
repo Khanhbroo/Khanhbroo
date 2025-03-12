@@ -19,7 +19,7 @@
 
 
 ### 👋 About Me
-I'm a Web3 blockchain developer passionate about building decentralized applications and smart contracts. I specialize in Solidity, Foundry, and Ethereum development, with a strong focus on secure and efficient blockchain solutions
+I'm a Web3 blockchain developer passionate about building decentralized applications and smart contracts. I specialize in Solidity, Foundry, and Ethereum development, with a strong focus on secure and efficient blockchain solutions.
 
 I graduated from Troy University in 2025 with a degree in Computer Science, where I developed a solid foundation in software engineering, cryptography, and decentralized systems.
 
