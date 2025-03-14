@@ -44,7 +44,7 @@ I graduated from Troy University in 2025 with a degree in Computer Science, wher
 🎮 **Game Projects** – Unity-based interactive experiences.  
 🛠 **Cloud & Infrastructure** – Working with Linux and containerized environments.  
 
-🚀 Always open to new opportunities and collaborations in **Web3, Blockchain, and Game Development**!  
+🚀 Always open to new opportunities and collaborations in **Web3, Blockchain, and Game Development**! 
 
 
 ### 🤝 Looking for Collaboration
