@@ -47,6 +47,11 @@ I graduated from Troy University in 2025 with a degree in Computer Science, wher
 ### 🤝 Looking for Collaboration
 I'm actively looking for new opportunities in Web3 development, blockchain engineering, and DeFi projects. If you're working on an innovative blockchain project, feel free to connect with me!
 
+### And I have a cute girlfriend
+<div align="center">
+ <img src="https://scontent.fhan2-3.fna.fbcdn.net/v/t39.30808-1/494269907_1831587940907586_2715517377523256580_n.jpg?stp=dst-jpg_s200x200_tt6&_nc_cat=111&ccb=1-7&_nc_sid=1d2534&_nc_ohc=zR9HgxyHHdsQ7kNvwEB8_60&_nc_oc=AdkVeZCeKslYEaU_2Cb5AMctnuKRqqTlf-ZIuF5DK356xBACyYRMxL_iFC986FtuxKc&_nc_zt=24&_nc_ht=scontent.fhan2-3.fna&_nc_gid=T9UZ2EOtqb0dMoesTSL34A&oh=00_AfLRlK4c34LigfF-FSMwulSEbmVBSvsp4_eXwI8v4iz7Rg&oe=68275C6E" alt="A cute girl" />
+</div>
+
 ---
 
 ![snake gif](https://github.com/Khanhbroo/Khanhbroo/blob/output/github-snake.svg)
