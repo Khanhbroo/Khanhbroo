@@ -47,7 +47,7 @@ I graduated from Troy University in 2025 with a degree in Computer Science, wher
 ### 🤝 Looking for Collaboration
 I'm actively looking for new opportunities in Web3 development, blockchain engineering, and DeFi projects. If you're working on an innovative blockchain project, feel free to connect with me!
 
-### And I have a cute girlfriend
+### 🧸 And I have a cute girlfriend
 <div align="center">
  --Chip
  <img src="https://scontent.fhan2-5.fna.fbcdn.net/v/t39.30808-6/483770387_1790922518307462_5506646837159664575_n.jpg?_nc_cat=104&ccb=1-7&_nc_sid=a5f93a&_nc_eui2=AeFNZe5RzDJLnHXAMEWWBDeNDCSQFcR6QEkMJJAVxHpAScdc0gqoYjJZXuUd0SPXQSKu1c3zO20qYQ9blqzfxO2w&_nc_ohc=z25YQFLZrkoQ7kNvwEiA-In&_nc_oc=Adle44WpZmIvgdoWxGw2gPeb7Cu_l_elf3JSECo_PnzETmnE7yLtToqTl1L-Y9umsn0jt7V4OmyX3Cfx7CX8owbn&_nc_zt=23&_nc_ht=scontent.fhan2-5.fna&_nc_gid=_7PUUck3dxMXMzopJ5wgGw&oh=00_AfLUpyxLEmpDn-BPdWzrVDfrhGCUpIvPCGtK5Mvyypekiw&oe=6843BB00" alt="A cute girl" width="300" height="300" />
