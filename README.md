@@ -39,14 +39,6 @@ I graduated in Software Development with strong fundamentals in programming, web
 I’m open to Frontend, Fullstack, and product-focused engineering roles.  
 If you’re building something exciting — let's talk!
 
-### 🧸 And I have a cute girlfriend
-<div align="center">
- --Chip
- <img src="https://res.cloudinary.com/dptpb60p7/image/upload/v1765138116/mybfgf_exxv9s.jpg" alt="A cute girl" width="300" height="300" />
- <img src="https://res.cloudinary.com/dptpb60p7/image/upload/v1765138115/mybfgf_1_nys2un.jpg" alt="A cute girl" width="170" height="300" />
- --Khanh Gia
-</div>
-
 ---
 
 ![snake gif](https://github.com/Khanhbroo/Khanhbroo/blob/output/github-snake.svg)
