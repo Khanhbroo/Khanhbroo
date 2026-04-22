@@ -33,7 +33,7 @@
       <td align="center"><a href="https://sass-lang.com" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/sass/sass-original.svg" alt="sass" width="40" height="40"/></a></td>
       <td align="center"><a href="https://tailwindcss.com/" target="_blank" rel="noreferrer"><img src="https://www.svgrepo.com/show/374118/tailwind.svg" alt="tailwind" width="40" height="40"/></a></td>
       <td align="center"><a href="https://unity.com/" target="_blank" rel="noreferrer"><img src="https://www.vectorlogo.zone/logos/unity3d/unity3d-ar21.svg" alt="unity" width="120" height="60"/></a></td>
-      <td align="center"><a href="https://webpack.js.org" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/devicons/devicon/d00d0969292a6569d45b06d3f350f463a0107b0d/icons/webpack/webpack-original-wordmark.svg" alt="webpack" width="40" height="40"/></a></td>
+      <td align="center"><a href="https://vite.dev/" target="_blank" rel="noreferrer"><img src="https://www.vectorlogo.zone/logos/vitejsdev/vitejsdev-ar21.svg" alt="vite" width="120" height="60"/></a></td>
       <td align="center"><a href="https://www.mongodb.com/" target="_blank" rel="noreferrer"><img src="https://www.vectorlogo.zone/logos/mongodb/mongodb-ar21.svg" alt="mongodb" width="120" height="60"/></a></td>
       <td align="center"><a href="https://shopify.dev/docs/apps/build" target="_blank" rel="noreferrer"><img src="https://www.vectorlogo.zone/logos/shopify/shopify-ar21.svg" alt="shopify" width="120" height="60"/></a></td>
     </tr>
