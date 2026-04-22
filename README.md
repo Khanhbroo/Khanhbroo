@@ -23,7 +23,7 @@
     </tr>
     <tr>
       <td align="center"><a href="https://nodejs.org" target="_blank" rel="noreferrer"><img src="https://www.vectorlogo.zone/logos/nodejs/nodejs-ar21.svg" alt="nodejs" width="120" height="60"/></a></td>
-      <td align="center"><a href="https://www.photoshop.com/en" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/photoshop/photoshop-line.svg" alt="photoshop" width="40" height="40"/></a></td>
+      <td align="center"><a href="https://yarnpkg.com/" target="_blank" rel="noreferrer"><img src="https://www.vectorlogo.zone/logos/yarnpkg/yarnpkg-ar21.svg" alt="yarn" width="120" height="60"/></a></td>
       <td align="center"><a href="https://www.postgresql.org" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/postgresql/postgresql-original-wordmark.svg" alt="postgresql" width="40" height="40"/></a></td>
       <td align="center"><a href="https://www.python.org" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/></a></td>
       <td align="center"><a href="https://www.qt.io/" target="_blank" rel="noreferrer"><img src="https://www.vectorlogo.zone/logos/qtio/qtio-ar21.svg" alt="qt" width="120" height="60"/></a></td>
@@ -32,7 +32,7 @@
     <tr>
       <td align="center"><a href="https://sass-lang.com" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/sass/sass-original.svg" alt="sass" width="40" height="40"/></a></td>
       <td align="center"><a href="https://tailwindcss.com/" target="_blank" rel="noreferrer"><img src="https://www.svgrepo.com/show/374118/tailwind.svg" alt="tailwind" width="40" height="40"/></a></td>
-      <td align="center"><a href="https://unity.com/" target="_blank" rel="noreferrer"><img src="https://www.vectorlogo.zone/logos/unity3d/unity3d-icon.svg" alt="unity" width="40" height="40"/></a></td>
+      <td align="center"><a href="https://unity.com/" target="_blank" rel="noreferrer"><img src="https://www.vectorlogo.zone/logos/unity3d/unity3d-ar21.svg" alt="unity" width="120" height="60"/></a></td>
       <td align="center"><a href="https://webpack.js.org" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/devicons/devicon/d00d0969292a6569d45b06d3f350f463a0107b0d/icons/webpack/webpack-original-wordmark.svg" alt="webpack" width="40" height="40"/></a></td>
       <td align="center"><a href="https://www.mongodb.com/" target="_blank" rel="noreferrer"><img src="https://www.vectorlogo.zone/logos/mongodb/mongodb-ar21.svg" alt="mongodb" width="120" height="60"/></a></td>
       <td align="center"><a href="https://shopify.dev/docs/apps/build" target="_blank" rel="noreferrer"><img src="https://www.vectorlogo.zone/logos/shopify/shopify-ar21.svg" alt="shopify" width="120" height="60"/></a></td>
