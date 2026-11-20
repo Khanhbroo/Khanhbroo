@@ -6,6 +6,7 @@
 <p align="left">
   <table>
     <tr>
+      <td align="center"><a href="https://www.typescriptlang.org/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-original.svg" alt="typescript" width="40" height="40"/></a></td>
       <td align="center"><a href="https://nextjs.org/" target="_blank" rel="noreferrer"><img src="https://www.vectorlogo.zone/logos/nextjs/nextjs-ar21.svg" alt="nextjs" width="120" height="60"/></a></td>
       <td align="center"><a href="https://getbootstrap.com" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bootstrap/bootstrap-plain-wordmark.svg" alt="bootstrap" width="40" height="40"/></a></td>
       <td align="center"><a href="https://www.w3schools.com/cpp/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" alt="cplusplus" width="40" height="40"/></a></td>
@@ -43,7 +44,7 @@
 ### 👋 About Me
 I'm a **Fullstack Developer** passionate about building modern web applications with clean structure, scalable performance, and smooth UI/UX. I work mainly with **React, Next.js, TypeScript, Node.js, Express, MongoDB & PostgreSQL**, focusing on product quality and maintainable architecture.
 
-I graduated in Software Development with strong fundamentals in programming, web technologies, and system design.
+I graduated in **Computer Science** at **Hanoi University of Science and Technology (HUST)** with strong fundamentals in programming, web technologies, and system design.
 
 ### 🚀 What I Do  
 💡 **Web Development** – React, Next.js, UI systems & performance optimization  
@@ -55,7 +56,7 @@ I graduated in Software Development with strong fundamentals in programming, web
 ### ⚡ My Tech Stack  
 🖥 **Languages:** C++, C#, JavaScript, TypeScript, Python  
 🎨 **Frontend:** React.js, Bootstrap, TailwindCSS, HTML, CSS, SASS, Webpack, Vite, Qt  
-🖧 **Backend:** Node.js, Express  
+🖧 **Backend:** Node.js, Express, NestJS (learning & Clean Architecture)  
 📦 **Databases:** MySQL, PostgreSQL, MongoDB  
 🎮 **Game Engine:** Unity (C#)  
 ☁️ **Cloud & DevOps:** Linux (WSL), Docker, CI/CD  
