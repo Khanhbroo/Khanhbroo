@@ -3,13 +3,13 @@
 
 <h3 align="left">Languages and Tools:</h3>
 
-<p align="left">
+<p align="center">
   <a href="https://skillicons.dev">
     <img src="https://skillicons.dev/icons?i=react,nextjs,ts,js,tailwind,sass,html,css,nodejs,express,nestjs,mongodb,postgres,mysql,redis,vite,redux,git,linux,docker,firebase,unity,cs,cpp,python&perline=8" alt="Tech Stack" />
   </a>
 </p>
 
-<p align="left">
+<p align="center">
   <a href="https://shopify.dev" target="_blank" rel="noreferrer">
     <img src="https://img.shields.io/badge/Shopify_App_Dev-95BF47?style=for-the-badge&logo=shopify&logoColor=white" alt="Shopify App Development" />
   </a>
