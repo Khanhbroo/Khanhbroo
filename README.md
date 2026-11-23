@@ -91,8 +91,8 @@ If you’re building something exciting — let's talk!
 ---
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Khanhbroo&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" alt="Khanh's GitHub Stats" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Khanhbroo&layout=compact&theme=tokyonight&hide_border=true" alt="Top Languages" />
+  <img height="195" src="https://github-readme-stats.vercel.app/api?username=Khanhbroo&show_icons=true&theme=tokyonight&hide_border=true" alt="Khanh's GitHub Stats" />
+  <img height="195" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Khanhbroo&layout=compact&theme=tokyonight&hide_border=true" alt="Top Languages" />
 </p>
 
 ---
