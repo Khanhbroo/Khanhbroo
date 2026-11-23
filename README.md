@@ -1,71 +1,53 @@
 <h1 align="center">Hi 👋, I'm Khanh</h1> 
-<h3 align="center">Fullstack Engineer 👨‍💻 | React / Next.js / Node.js</h3> 
+<h3 align="center">Fullstack Engineer 👨‍💻 | React / Next.js / TypeScript / Node.js</h3> 
 
 <h3 align="left">Languages and Tools:</h3>
 
 <p align="left">
-  <table>
-    <tr>
-      <td align="center"><a href="https://nextjs.org/" target="_blank" rel="noreferrer"><img src="https://www.vectorlogo.zone/logos/nextjs/nextjs-ar21.svg" alt="nextjs" width="120" height="60"/></a></td>
-      <td align="center"><a href="https://getbootstrap.com" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bootstrap/bootstrap-plain-wordmark.svg" alt="bootstrap" width="40" height="40"/></a></td>
-      <td align="center"><a href="https://www.w3schools.com/cpp/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" alt="cplusplus" width="40" height="40"/></a></td>
-      <td align="center"><a href="https://www.w3schools.com/cs/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/csharp/csharp-original.svg" alt="csharp" width="40" height="40"/></a></td>
-      <td align="center"><a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/></a></td>
-      <td align="center"><a href="https://firebase.google.com/" target="_blank" rel="noreferrer"><img src="https://www.vectorlogo.zone/logos/firebase/firebase-icon.svg" alt="firebase" width="40" height="40"/></a></td>
-    </tr>
-    <tr>
-      <td align="center"><a href="https://git-scm.com/" target="_blank" rel="noreferrer"><img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/></a></td>
-      <td align="center"><a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/></a></td>
-      <td align="center"><a href="https://www.adobe.com/in/products/illustrator.html" target="_blank" rel="noreferrer"><img src="https://www.vectorlogo.zone/logos/adobe_illustrator/adobe_illustrator-icon.svg" alt="illustrator" width="40" height="40"/></a></td>
-      <td align="center"><a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/></a></td>
-      <td align="center"><a href="https://www.linux.org/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" alt="linux" width="40" height="40"/></a></td>
-      <td align="center"><a href="https://www.mysql.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40"/></a></td>
-    </tr>
-    <tr>
-      <td align="center"><a href="https://nodejs.org" target="_blank" rel="noreferrer"><img src="https://www.vectorlogo.zone/logos/nodejs/nodejs-ar21.svg" alt="nodejs" width="120" height="60"/></a></td>
-      <td align="center"><a href="https://yarnpkg.com/" target="_blank" rel="noreferrer"><img src="https://www.vectorlogo.zone/logos/yarnpkg/yarnpkg-ar21.svg" alt="yarn" width="120" height="60"/></a></td>
-      <td align="center"><a href="https://www.postgresql.org" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/postgresql/postgresql-original-wordmark.svg" alt="postgresql" width="40" height="40"/></a></td>
-      <td align="center"><a href="https://www.python.org" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/></a></td>
-      <td align="center"><a href="https://www.qt.io/" target="_blank" rel="noreferrer"><img src="https://www.vectorlogo.zone/logos/qtio/qtio-ar21.svg" alt="qt" width="120" height="60"/></a></td>
-      <td align="center"><a href="https://reactjs.org/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="react" width="40" height="40"/></a></td>
-    </tr>
-    <tr>
-      <td align="center"><a href="https://sass-lang.com" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/sass/sass-original.svg" alt="sass" width="40" height="40"/></a></td>
-      <td align="center"><a href="https://tailwindcss.com/" target="_blank" rel="noreferrer"><img src="https://www.svgrepo.com/show/374118/tailwind.svg" alt="tailwind" width="40" height="40"/></a></td>
-      <td align="center"><a href="https://unity.com/" target="_blank" rel="noreferrer"><img src="https://www.vectorlogo.zone/logos/unity3d/unity3d-ar21.svg" alt="unity" width="120" height="60"/></a></td>
-      <td align="center"><a href="https://vite.dev/" target="_blank" rel="noreferrer"><img src="https://www.vectorlogo.zone/logos/vitejsdev/vitejsdev-ar21.svg" alt="vite" width="120" height="60"/></a></td>
-      <td align="center"><a href="https://www.mongodb.com/" target="_blank" rel="noreferrer"><img src="https://www.vectorlogo.zone/logos/mongodb/mongodb-ar21.svg" alt="mongodb" width="120" height="60"/></a></td>
-      <td align="center"><a href="https://shopify.dev/docs/apps/build" target="_blank" rel="noreferrer"><img src="https://www.vectorlogo.zone/logos/shopify/shopify-ar21.svg" alt="shopify" width="120" height="60"/></a></td>
-    </tr>
-  </table>
+  <a href="https://skillicons.dev">
+    <img src="https://skillicons.dev/icons?i=react,nextjs,ts,js,tailwind,sass,html,css,nodejs,express,nestjs,mongodb,postgres,mysql,redis,vite,redux,git,linux,docker,firebase,unity,cs,cpp,python&perline=8" alt="Tech Stack" />
+  </a>
+</p>
+
+<p align="left">
+  <a href="https://shopify.dev" target="_blank" rel="noreferrer">
+    <img src="https://img.shields.io/badge/Shopify_App_Dev-95BF47?style=for-the-badge&logo=shopify&logoColor=white" alt="Shopify App Development" />
+  </a>
+  <a href="https://shopify.dev/docs/apps/online-store/theme-app-extensions" target="_blank" rel="noreferrer">
+    <img src="https://img.shields.io/badge/Theme_App_Extensions-008060?style=for-the-badge&logo=shopify&logoColor=white" alt="Shopify Theme App Extensions" />
+  </a>
+  <a href="https://polaris.shopify.com" target="_blank" rel="noreferrer">
+    <img src="https://img.shields.io/badge/Polaris_Design_System-5C6AC4?style=for-the-badge&logo=shopify&logoColor=white" alt="Shopify Polaris" />
+  </a>
 </p>
 
 ### 👋 About Me
-I'm a **Fullstack Developer** passionate about building modern web applications with clean structure, scalable performance, and smooth UI/UX. I work mainly with **React, Next.js, TypeScript, Node.js, Express, MongoDB & PostgreSQL**, focusing on product quality and maintainable architecture.
+I'm a **Fullstack Engineer** passionate about architecting scalable web applications, modern e-commerce solutions, and high-performance user experiences. I specialize in the **React & Next.js** ecosystem on the frontend, combined with **Node.js, Express, TypeScript, and modern databases (MongoDB, PostgreSQL, Redis)** on the backend.
 
-I graduated in Software Development with strong fundamentals in programming, web technologies, and system design.
+Experienced in developing production SaaS applications and Shopify ecosystem apps — engineering theme app extensions, high-throughput REST APIs, automated SEO & schema architectures, and responsive design systems.
 
 ### 🚀 What I Do  
-💡 **Web Development** – React, Next.js, UI systems & performance optimization  
-🔗 **Backend Development** – Node.js, Express, REST API, authentication & data logic  
-🌐 **Full-Stack Project Handling** – Frontend → API → Database → Deployment  
-🎮 **Game Development** – Unity (C#) experience for interactive projects  
-🛠 **Scalable Codebase Design** – Reusable components & clean architecture  
+💡 **Fullstack Web Engineering** – Building scalable, end-to-end web applications with React, Next.js & TypeScript  
+⚡ **High-Performance Frontend** – Component-driven architecture, smooth interaction physics (GSAP / Framer Motion), and Core Web Vitals optimization  
+🔗 **Backend & API Systems** – Node.js, Express, RESTful APIs, distributed caching (Redis), and secure authentication  
+🛍️ **E-Commerce & SaaS Engineering** – Production Shopify app development, Theme App Extensions, Liquid, and payment gateway integrations  
+🎮 **Interactive & Systems Programming** – Strong software engineering fundamentals in C#, C++, and Unity interactive engines  
 
 ### ⚡ My Tech Stack  
-🖥 **Languages:** C++, C#, JavaScript, TypeScript, Python  
-🎨 **Frontend:** React.js, Next.js, Bootstrap, TailwindCSS, HTML, CSS, SASS, Webpack, Vite, Qt  
-🖧 **Backend:** Node.js, Nest.js, Express  
-📦 **Databases:** MySQL, PostgreSQL, MongoDB  
+🖥 **Languages:** TypeScript, JavaScript, C#, C++, Python  
+🎨 **Frontend:** React.js, Next.js, Tailwind CSS, SASS, Framer Motion, GSAP, Redux Toolkit, Vite, HTML5, CSS3  
+🖧 **Backend:** Node.js, Express, Nest.js, REST APIs, Redis  
+📦 **Databases:** MongoDB, PostgreSQL, MySQL  
+🛍️ **E-Commerce & Ecosystem:** Shopify App Development, Polaris, Theme App Extensions, Liquid  
+☁️ **DevOps & Tools:** Git, Docker, Linux (WSL), CI/CD  
 🎮 **Game Engine:** Unity (C#)  
-☁️ **Cloud & DevOps:** Linux (WSL), Docker, CI/CD  
 
 ### 🎯 Things I've Built  
-🌍 Full-stack web apps (UI → API → DB)  
-📦 REST API authentication systems  
-🔍 Admin dashboards & management features  
-🎮 Unity game projects  
-🛠 Clean architecture & scalable component libraries  
+🛍️ Production SaaS & Shopify App extensions powering real-world merchants  
+⚡ High-performance interactive web applications with 60fps animations  
+📦 Resilient backend services, REST APIs & caching architectures (Redis, MongoDB, PostgreSQL)  
+🎮 Interactive 3D graphics & game systems with Unity (C#)  
+🛠 Scalable, maintainable UI component design systems  
 
 #### 🏆 Featured Engineering Highlights
 
@@ -73,20 +55,19 @@ I graduated in Software Development with strong fundamentals in programming, web
 | :--- | :--- | :--- |
 | [**FashionWekk**](https://github.com/Khanhbroo/FashionWekk) | 3D Cartoon Pop-Art Streetwear Atelier with Cloudinary dynamic media pipeline & Zustand. | `React 19` `TypeScript` `Cloudinary` `Zustand` `GSAP` `MongoDB` |
 | [**macos-portfolio**](https://github.com/Khanhbroo/macos-portfolio) | Interactive macOS Desktop Web Operating System with draggable window manager & Dock physics. | `React` `TypeScript` `GSAP` `Framer Motion` `Tailwind` |
+| [**mern_ecommerce_bunny**](https://github.com/Khanhbroo/mern_ecommerce_bunny) | Full-stack MERN e-commerce platform with PayPal SDK checkout & Upstash Redis rate limiting. | `React 19` `Redux Toolkit` `PayPal SDK` `Express` `Upstash` |
 | [**awkward**](https://github.com/Khanhbroo/awkward) | Awwwards-tier kinetic interaction lab with multi-video clip-path morphing & 3D Bento Tilt physics. | `React 19` `GSAP 3.15` `ScrollTrigger` `Tailwind v4` `Vite` |
 | [**web3-campaign**](https://github.com/Khanhbroo/web3-campaign) | Decentralized Crowdfunding Platform dApp with Reown AppKit, Ethers.js v6 & Solidity smart contracts. | `React 19` `Solidity` `Ethers.js v6` `Reown AppKit` |
 | [**ecommerce-lunarlane**](https://github.com/Khanhbroo/ecommerce-lunarlane) | Modern fashion e-commerce storefront with normalized Redux Toolkit state & Stripe checkout. | `React 18` `Redux Toolkit` `Tailwind CSS` `Stripe` |
 | [**Clima**](https://github.com/Khanhbroo/Clima) | Real-time weather intelligence dashboard powered by TanStack Query v5 caching & OpenWeather telemetry. | `React 19` `TanStack Query v5` `TypeScript` `Radix UI` |
 | [**gsap_cocktails**](https://github.com/Khanhbroo/gsap_cocktails) | 3D interactive beverage storytelling with GSAP ScrollTrigger timeline choreography & parallax depth. | `React 19` `GSAP ScrollTrigger` `Tailwind v4` `Vite` |
 | [**nextjs-portfolio**](https://github.com/Khanhbroo/nextjs-portfolio) | Cosmic developer portfolio featuring solar orbital physics, infinite kinetic marquee & Bento Grid. | `Next.js 14` `Framer Motion` `TypeScript` `Tailwind` |
-| [**mern_ecommerce_bunny**](https://github.com/Khanhbroo/mern_ecommerce_bunny) | Full-stack MERN e-commerce platform with PayPal SDK checkout & Upstash Redis rate limiting. | `React 19` `Redux Toolkit` `PayPal SDK` `Express` `Upstash` |
-| [**ToDoApp**](https://github.com/Khanhbroo/ToDoApp) | Full-stack task management application with strict TypeScript typing, Express REST API & MongoDB. | `TypeScript` `React` `Node.js` `Express` `MongoDB` |
 
 🚀 Always open to new development opportunities and creative collaborations!
 
 ### 🤝 Looking for Collaboration
 I’m open to Frontend, Fullstack, and product-focused engineering roles.  
-If you’re building something exciting — let's talk!
+If you’re building something exciting — let's connect!
 
 ---
 
