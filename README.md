@@ -54,8 +54,8 @@ I graduated in Software Development with strong fundamentals in programming, web
 
 ### ⚡ My Tech Stack  
 🖥 **Languages:** C++, C#, JavaScript, TypeScript, Python  
-🎨 **Frontend:** React.js, Bootstrap, TailwindCSS, HTML, CSS, SASS, Webpack, Vite, Qt  
-🖧 **Backend:** Node.js, Express  
+🎨 **Frontend:** React.js, Next.js, Bootstrap, TailwindCSS, HTML, CSS, SASS, Webpack, Vite, Qt  
+🖧 **Backend:** Node.js, Nest.js, Express  
 📦 **Databases:** MySQL, PostgreSQL, MongoDB  
 🎮 **Game Engine:** Unity (C#)  
 ☁️ **Cloud & DevOps:** Linux (WSL), Docker, CI/CD  
