@@ -67,11 +67,33 @@ I graduated in Software Development with strong fundamentals in programming, web
 🎮 Unity game projects  
 🛠 Clean architecture & scalable component libraries  
 
+#### 🏆 Featured Engineering Highlights
+
+| Project | Description & Architecture | Tech Stack |
+| :--- | :--- | :--- |
+| [**FashionWekk**](https://github.com/Khanhbroo/FashionWekk) | 3D Cartoon Pop-Art Streetwear Atelier with Cloudinary dynamic media pipeline & Zustand. | `React 19` `TypeScript` `Cloudinary` `Zustand` `GSAP` `MongoDB` |
+| [**macos-portfolio**](https://github.com/Khanhbroo/macos-portfolio) | Interactive macOS Desktop Web Operating System with draggable window manager & Dock physics. | `React` `TypeScript` `GSAP` `Framer Motion` `Tailwind` |
+| [**awkward**](https://github.com/Khanhbroo/awkward) | Awwwards-tier kinetic interaction lab with multi-video clip-path morphing & 3D Bento Tilt physics. | `React 19` `GSAP 3.15` `ScrollTrigger` `Tailwind v4` `Vite` |
+| [**web3-campaign**](https://github.com/Khanhbroo/web3-campaign) | Decentralized Crowdfunding Platform dApp with Reown AppKit, Ethers.js v6 & Solidity smart contracts. | `React 19` `Solidity` `Ethers.js v6` `Reown AppKit` |
+| [**ecommerce-lunarlane**](https://github.com/Khanhbroo/ecommerce-lunarlane) | Modern fashion e-commerce storefront with normalized Redux Toolkit state & Stripe checkout. | `React 18` `Redux Toolkit` `Tailwind CSS` `Stripe` |
+| [**Clima**](https://github.com/Khanhbroo/Clima) | Real-time weather intelligence dashboard powered by TanStack Query v5 caching & OpenWeather telemetry. | `React 19` `TanStack Query v5` `TypeScript` `Radix UI` |
+| [**gsap_cocktails**](https://github.com/Khanhbroo/gsap_cocktails) | 3D interactive beverage storytelling with GSAP ScrollTrigger timeline choreography & parallax depth. | `React 19` `GSAP ScrollTrigger` `Tailwind v4` `Vite` |
+| [**nextjs-portfolio**](https://github.com/Khanhbroo/nextjs-portfolio) | Cosmic developer portfolio featuring solar orbital physics, infinite kinetic marquee & Bento Grid. | `Next.js 14` `Framer Motion` `TypeScript` `Tailwind` |
+| [**mern_ecommerce_bunny**](https://github.com/Khanhbroo/mern_ecommerce_bunny) | Full-stack MERN e-commerce platform with PayPal SDK checkout & Upstash Redis rate limiting. | `React 19` `Redux Toolkit` `PayPal SDK` `Express` `Upstash` |
+| [**ToDoApp**](https://github.com/Khanhbroo/ToDoApp) | Full-stack task management application with strict TypeScript typing, Express REST API & MongoDB. | `TypeScript` `React` `Node.js` `Express` `MongoDB` |
+
 🚀 Always open to new development opportunities and creative collaborations!
 
 ### 🤝 Looking for Collaboration
 I’m open to Frontend, Fullstack, and product-focused engineering roles.  
 If you’re building something exciting — let's talk!
+
+---
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=Khanhbroo&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" alt="Khanh's GitHub Stats" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Khanhbroo&layout=compact&theme=tokyonight&hide_border=true" alt="Top Languages" />
+</p>
 
 ---
 
