@@ -29,7 +29,7 @@ Experienced in developing production SaaS applications and Shopify ecosystem app
 ### 🚀 What I Do  
 💡 **Fullstack Web Engineering** – Building scalable, end-to-end web applications with React, Next.js & TypeScript  
 ⚡ **High-Performance Frontend** – Component-driven architecture, smooth interaction physics (GSAP / Framer Motion), and Core Web Vitals optimization  
-🔗 **Backend & API Systems** – Node.js, Express, RESTful APIs, distributed caching (Redis), and secure authentication  
+🔗 **Backend & API Systems** – Node.js, Nest.js, Express, RESTful APIs, distributed caching (Redis), and secure authentication  
 🛍️ **E-Commerce & SaaS Engineering** – Production Shopify app development, Theme App Extensions, Liquid, and payment gateway integrations  
 🎮 **Interactive & Systems Programming** – Strong software engineering fundamentals in C#, C++, and Unity interactive engines  
 
